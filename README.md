@@ -1,42 +1,89 @@
-# Website for a medical clinic in HTML
+lang = en
+# Nutrition Clinic
 
-[Descrição concisa do seu projeto]
+## Description
 
-## Tabela de Conteúdo
+This project consists of a website for a nutrition clinic, covering different topics from the HTML module. The clinic offers specialized services in nutrition to promote health and well-being.
 
-- [Sobre](#sobre)
-- [Recursos](#recursos)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+## Site Structure
 
-## Sobre
+The site comprises several pages, each with a specific purpose.
 
-[Explicação detalhada do seu projeto, seu propósito e contexto.]
+### Pages
 
-## Recursos
+#### Home Page
 
-- [Lista de principais recursos e funcionalidades.]
+- **Header:** Displays a representative image of the nutrition clinic.
+- **Content:** Provides a brief description of the clinic and its nutrition services.
+- **Menu and Footer:** Standard across all pages.
 
-## Instalação
+#### About the Clinic
 
-[Instruções passo a passo sobre como instalar e configurar o seu projeto.]
+- **Header:** Uses a specific image to represent the nutrition clinic.
+- **Content:** Presents detailed information about the clinic, its mission, and vision in the field of nutrition.
+- **Menu and Footer:** Standard across all pages.
 
-## Uso
+#### Business Hours
 
-[Exemplos e instruções sobre como usar o seu projeto.]
+- **Header:** Uses a different image to identify the business hours page.
+- **Content:** Provides information about the services offered, along with a price table detailing the operating hours for each nutrition specialty.
+- **Menu and Footer:** Standard across all pages.
+  
+#### Contact
 
-## Contribuição
+- **Header:** Displays a representative image for the contact page.
+- **Content:** Includes contact phone numbers, the clinic's full address, a Google Maps map indicating the location, and a contact form for direct interaction.
+- **Menu and Footer:** Standard across all pages.
 
-[Instruções para contribuir para o projeto, diretrizes de estilo de código, etc.]
+## How to Contribute
 
-## Licença
+If you encounter any issues or have improvement suggestions, feel free to [open an issue](link to issues) or [submit a pull request](link to pull requests).
 
-[Informações sobre a licença do seu projeto.]
+Thank you for contributing to the development of this project!
 
 ---
 
-**Observação:** Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para [abrir uma issue](link para issues) ou [enviar um pull request](link para pull requests).
+lang = pt-br
+# Clínica de Nutrologia
 
-[Inclua qualquer informação adicional ou links relevantes aqui.]
+## Descrição
+
+Este projeto consiste em um site para uma clínica de nutrologia, abordando diferentes tópicos do módulo HTML. A clínica oferece serviços especializados em nutrologia para promover a saúde e bem-estar.
+
+## Estrutura do Site
+
+O site é composto por várias páginas, cada uma com um propósito específico.
+
+### Páginas
+
+#### Página Principal
+
+- **Header:** Apresenta uma imagem representativa da clínica de nutrologia.
+- **Content:** Oferece uma breve descrição sobre a clínica e seus serviços em nutrologia.
+- **Menu e Footer:** Padrões em todas as páginas.
+
+#### Sobre a Clínica
+
+- **Header:** Utiliza uma imagem específica para representar a clínica de nutrologia.
+- **Content:** Apresenta informações detalhadas sobre a clínica, sua missão e visão na área de nutrologia.
+- **Menu e Footer:** Padrões em todas as páginas.
+
+#### Horário de Atendimento
+
+- **Header:** Utiliza uma imagem diferente para identificar a página de horário de atendimento.
+- **Content:** Fornece informações sobre os serviços oferecidos, juntamente com uma tabela de preços detalhando os horários de atendimento para cada especialidade de nutrologia.
+- **Menu e Footer:** Padrões em todas as páginas.
+
+#### Contato
+
+- **Header:** Apresenta uma imagem representativa para a página de contato.
+- **Content:** Inclui os telefones de contato, endereço completo da clínica, um mapa do Google Maps indicando a localização e um formulário de contato para interação direta.
+- **Menu e Footer:** Padrões em todas as páginas.
+
+## Como Contribuir
+
+Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para [abrir uma issue](link para issues) ou [enviar um pull request](link para pull requests).
+
+Agradeço por contribuir para o desenvolvimento deste projeto!
+
+---
